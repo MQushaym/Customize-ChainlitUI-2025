@@ -1,0 +1,19 @@
+img.aspect-square.h-full.w-full.bg-transparent {
+    width: 65px !important;
+    height: 65px !important;
+    border-radius: 20% !important;
+}
+
+span.relative.flex.shrink-0.overflow-hidden.rounded-full.h-5.w-5 {
+    width: 65px !important;
+    height: 65px !important;
+    border-radius: 20% !important;
+}
+
+span.inline-block {
+    width: 65px !important;
+    height: 65px !important;
+}
+button#readme-button {
+  display: none !important;
+}
