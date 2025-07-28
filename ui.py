@@ -1,5 +1,3 @@
-# Import necessary libraries for the chatbot
-from langchain_ollama import OllamaLLM  # مكتبة Ollama الجديدة
 import chainlit as cl
 
 # This function is called when the chatbot starts
