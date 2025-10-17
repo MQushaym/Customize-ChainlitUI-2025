@@ -5,6 +5,10 @@ This repository hosts the **Customized User Interface (UI)** for the **AI-GRC As
 
 The project adheres to a **Microservices Architecture** by operating as a lightweight frontend client. Its sole responsibility is handling user interaction, sending queries to the designated backend API, and displaying the specialized RAG responses.
 
+<div align="center">
+  <img src="./public/chat_screenshot.jpg" alt="Screenshot of the customized GRC Assistant interface" width="700"/>
+</div>
+
 -----
 
 ## 🚀 Key Features and Customization
