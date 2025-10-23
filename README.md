@@ -1,3 +1,10 @@
+# 🚀 Live Demo
+
+Test the live application right in your browser:
+
+**➡️ [Click here to open the AI-GRC Assistant UI](https://grc-llm.onrender.com/) ⬅️**
+
+*__Note:__ This demo is hosted on a free service (`Render.com`). If the app is inactive, please allow **15-30 seconds** for the server to "wake up" on the first load.*
 -----
 ## 🌟 Project Overview
 
